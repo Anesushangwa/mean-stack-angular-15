@@ -1,0 +1,9 @@
+.submit-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+
+input.ng-invalid {
+  border: 1px solid red;
+}
